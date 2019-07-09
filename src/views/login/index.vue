@@ -24,7 +24,12 @@
       </van-cell-group>
 
       <div class="login-btn-box">
-        <van-button class="login-btn" type="info">登录</van-button>
+        <van-button
+        icon="like-o"
+        class="login-btn"
+        type="info"
+        round
+        >登录</van-button>
       </div>
     </form>
   </div>
